@@ -1,0 +1,39 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Paiva",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "Paiva's blog",
+    "icon": "http://localhost:4000/assets/images/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/assets/images/favicon.png",
+    "expired": false,
+    
+    "author":  {
+        "name": "David Paiva",
+        "url": null,
+        "avatar": null
+    },
+    
+"items": [
+    
+        {
+            "id": "http://localhost:4000/hello-world/",
+            "title": "Hello World!",
+            "summary": null,
+            "content_text": "Hello World!This is my first post on my new blog! How exciting!I’m going to use this blog to write about my experiences with programming, and to share some of the things I’ve learned.I’m a software developer, and I’ve been working with software development for about a year now. I’ve worked with a lot of different technologies, and I’ve learned a lot of things. I’m going to share some of those things here. Stay tuned!",
+            "content_html": "<p>Hello World!</p><p>This is my first post on my new blog! How exciting!</p><p>I’m going to use this blog to write about my experiences with programming, and to share some of the things I’ve learned.</p><p>I’m a software developer, and I’ve been working with software development for about a year now. I’ve worked with a lot of different technologies, and I’ve learned a lot of things. I’m going to share some of those things here. Stay tuned!</p>",
+            "url": "http://localhost:4000/hello-world/",
+            
+            
+            
+            
+            
+            "date_published": "2023-07-07T16:58:11+01:00",
+            "date_modified": "2023-07-07T16:58:11+01:00",
+            
+                "author": "David Paiva"
+            
+        }
+    
+    ]
+}
